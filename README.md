@@ -21,9 +21,9 @@ Guide with examples of Elixir language aspects.
 
 
 ## 5 Control Flow
-+ [ ] **[Recursion](05_control_flow/1_recursion.md)**
-+ [ ] **[Conditionals](05_control_flow/2_conditionals.md)**
-+ [ ] **[Exceptions Handling](05_control_flow/3_exceptions_handling.md)**
++ [X] **[Recursion](05_control_flow/1_recursion.md)**
++ [X] **[Conditionals](05_control_flow/2_conditionals.md)**
++ [X] **[Exceptions Handling](05_control_flow/3_exceptions_handling.md)**
 
 
 ## 6 IO
