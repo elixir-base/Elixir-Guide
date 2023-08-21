@@ -10,8 +10,8 @@ Guide with examples of Elixir language aspects.
 
 
 ## 3 Pattern Matching
-+ [ ] **[Pattern Matching vs Assignment](03_pattern_matching/1_pattern_matching.md)**
-+ [ ] **[Forms of Pattern Matching](03_pattern_matching/2_forms_of_pattern_matching.md)**
++ [X] **[Pattern Matching vs Assignment](03_pattern_matching/1_pattern_matching.md)**
++ [X] **[Forms of Pattern Matching](03_pattern_matching/2_forms_of_pattern_matching.md)**
 
 
 ## 4 Functions and Modules
