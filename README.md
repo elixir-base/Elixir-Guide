@@ -27,8 +27,8 @@ Guide with examples of Elixir language aspects.
 
 
 ## 6 IO
-+ [ ] **[Standart IO](06_io/1_standart_io.md)**
-+ [ ] **[Files](06_io/2_files.md)**
++ [X] **[Standart IO](06_io/1_standart_io.md)**
++ [X] **[Files](06_io/2_files.md)**
 
 
 ## 7 MIX
