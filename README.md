@@ -2,7 +2,7 @@
 Guide with examples of Elixir language aspects.
 
 ## 1 Literals and Operators
-+ [ ] **[Basic Types and Operators](01_literals_and_operators/literals_and_operators.md)**
++ [X] **[Basic Types and Operators](01_literals_and_operators/literals_and_operators.md)**
 
 
 ## 2 Collection Types
