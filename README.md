@@ -6,7 +6,7 @@ Guide with examples of Elixir language aspects.
 
 
 ## 2 Collection Types
-+ [ ] **[Collection Types](02_collection_types/collection_types.md)**
++ [x] **[Collection Types](02_collection_types/collection_types.md)**
 
 
 ## 3 Pattern Matching
