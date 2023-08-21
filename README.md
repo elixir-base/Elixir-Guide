@@ -17,7 +17,7 @@ Guide with examples of Elixir language aspects.
 ## 4 Functions and Modules
 + [X] **[Functions and Modules](04_functions_and_modules/1_functions_and_modules.md)**
 + [X] **[Pattern Matching in Functions](04_functions_and_modules/2_pattern_matching_in_functions.md)**
-+ [X] **[Anonymous Functions](3_anonymous_functions/3_anonymous_functions.md)**
++ [X] **[Anonymous Functions](04_functions_and_modules/3_anonymous_functions.md)**
 
 
 ## 5 Control Flow
